@@ -1,0 +1,17 @@
+1. Trainign set consisting of all the people or are they seperated. 
+
+2. Why did we take k = 6 in the code. ?
+
+3. WHat are the attributes(columns) in each of the dataset. And how many are there?
+
+4. What is being done in the k-fold in our code? Shouldnt the data have been disjoint from the training dataset? Also, why is the k-fold accuracy lower(not by a small amount)? Shouldnt it be equavalent to the testing accuracy? 
+
+
+
+
+Class          Column 1        Column 2               Column n 
+               (x_min)          (x_max)
+Joel              3               100
+Aravind 
+Person 3 
+Person 4 
